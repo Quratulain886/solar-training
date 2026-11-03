@@ -1,0 +1,6 @@
+streamlit
+ultralytics
+pillow
+pandas
+matplotlib
+streamlit-drawable-canvas
